@@ -9,7 +9,7 @@ public class Array2D {
 
     int[][] arr = new int[3][2];
 
-    // input
+    // input is given fo testing purpose:
 
     for (int row = 0; row < arr.length; row++) {
          for(int col =0; col< arr[row].length; col++){
