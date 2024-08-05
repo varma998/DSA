@@ -15,6 +15,7 @@ public class Array2D {
          for(int col =0; col< arr[row].length; col++){
 
             arr[row][col] = input.nextInt();
+          //3
          }
     }
 
